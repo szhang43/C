@@ -1,0 +1,32 @@
+Timings for array of size 1000
+	Time for allocation is 2e-05, time per element = 2e-08
+	Time for sort_time is 0.000308, time per element = 3.08e-07
+	Time for deallocation is 7e-06
+Timings for array of size 2000
+	Time for allocation is 1.5e-05, time per element = 7.5e-09
+	Time for sort_time is 0.001198, time per element = 5.99e-07
+	Time for deallocation is 0
+Timings for array of size 4000
+	Time for allocation is 2.7e-05, time per element = 6.75e-09
+	Time for sort_time is 0.00467, time per element = 1.1675e-06
+	Time for deallocation is 4e-06
+Timings for array of size 8000
+	Time for allocation is 7.8e-05, time per element = 9.75e-09
+	Time for sort_time is 0.018147, time per element = 2.26838e-06
+	Time for deallocation is 0
+Timings for array of size 16000
+	Time for allocation is 0.000112, time per element = 7e-09
+	Time for sort_time is 0.071558, time per element = 4.47237e-06
+	Time for deallocation is 4e-06
+Timings for array of size 32000
+	Time for allocation is 0.00025, time per element = 7.8125e-09
+	Time for sort_time is 0.298758, time per element = 9.33619e-06
+	Time for deallocation is 4e-06
+Timings for array of size 64000
+	Time for allocation is 0.000464, time per element = 7.25e-09
+	Time for sort_time is 1.25392, time per element = 1.95925e-05
+	Time for deallocation is 3e-06
+Timings for array of size 128000
+	Time for allocation is 0.000869, time per element = 6.78906e-09
+	Time for sort_time is 5.12276, time per element = 4.00216e-05
+	Time for deallocation is 3e-06
